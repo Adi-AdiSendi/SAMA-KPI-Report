@@ -1,7 +1,7 @@
 # SAMA-KPI-Report
 # Saudi Arabia Economic Dashboard — Vision 2030 Progress Tracker
 
-An interactive Power BI dashboard analyzing Saudi Arabia's economic transformation using official data from the Saudi Central Bank (SAMA) Open Data Portal. This study examines 20 years of economic indicators (2005–2024) across 7 categories to track the Kingdom's diversification progress under Vision 2030.
+An interactive Power BI dashboard analyzing Saudi Arabia's economic transformation using official data from the Saudi Central Bank (SAMA) Open Data Portal. This study examines 20 years of economic indicators (2005–2024) across seven categories to track the Kingdom's diversification progress under Vision 2030, Read the SAMA_Analysis_Report for more information.
 
 ## 🔗 Live Dashboard
 
