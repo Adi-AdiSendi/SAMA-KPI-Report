@@ -26,7 +26,7 @@ While every effort has been made to ensure accuracy, the author makes no guarant
 
 ## Author
 
-This study was created by **[Your Name]** as an independent economic analysis project, February 2026.
+This study was created by **Adi Sendi** as an independent economic analysis project, February 2026.
 
 ---
 
